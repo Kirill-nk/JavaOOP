@@ -32,5 +32,6 @@ public class Stock {
     public static void main(String[] args) {
         Stock stock = new Stock("gpn", "gpromneft", 935.6, 847);
         System.out.println(stock);
+//        v2
     }
 }
