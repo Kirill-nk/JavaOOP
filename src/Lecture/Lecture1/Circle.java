@@ -26,6 +26,7 @@ public class Circle {
     /** Присваивает новый радиус этому кругу */
     void setRadius(double newRadius) {
         radius = newRadius;
+        //арпарп
     }
 
 }
